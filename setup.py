@@ -4,7 +4,7 @@ setuptools.setup(
     name="abcd_package",
     version="0.0.1",
     author="sirui",
-    author_email="siruijhu@com",
+    author_email="siruijhu@gmail.com",
     description="A small example package",
     long_description="A small example package",
     long_description_content_type="text/markdown",
